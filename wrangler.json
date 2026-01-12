@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "fn",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "fdaf6239-431a-4e4e-b1d0-7aed4cdd3725",
+			"database_name": "fn-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
